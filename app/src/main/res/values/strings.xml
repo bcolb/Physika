@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Physicists Assistant</string>
+    
+    <!--  Contains strings for the formulas list -->
+    <string name="kin_btn">Kinematics</string>
+    <string name="circular_btn">Circular Motion</string>
+    <string name="newtons_btn">Newton\'s Laws</string>
+    <string name="momentum_btn">Impulse and Momentum</string>
+    <string name="energy_btn">Fundamentals of Energy</string>
+    <string name="energy_btn_2">Work and Energy</string>
+    <string name="rotational_btn">Rotational Motion</string>
+    <string name="gravity_btn">Theory of Gravity</string>
+    <string name="oscillation_btn">Oscillatory Motion</string>
+    <string name="ideal_gas_btn">Ideal Gas Law</string>
+    <string name="thermodynamics_btn">Thermodynamics</string>
+    <string name="electric_charge_btn">Electric Charges and Force</string>
+    <string name="gauss_btn">Gauss\'s Law</string>
+    <string name="electric_potential_btn">Electric Potential</string>
+    <string name="electric_potential_field_btn">Electric Potential and Field</string>
+    <string name="fundamental_circuits_btn">Fundamental Circuits</string>
+    <string name="magnetism_btn">Magnetism</string>
+    <string name="special_relativity_btn">Special Relativity</string>
+    
+    
+    <!--  Contains strings for the resources list -->
+    <string name="si_btn">SI Units</string>
+    <string name="prefix_btn">Prefixes</string>
+    <string name="constants_btn">Important Constants</string>
+    <string name="unit_conversions_btn">Basic Unit Conversions</string>
+    <string name="astronomy_btn">Astronomical Data</string>
+    <string name="calculator_btn">Calculator</string>
+    <string name="about_btn">About</string>
+    <string name="khan_btn">Khan Academy Videos</string>
+    
+    
+</resources>

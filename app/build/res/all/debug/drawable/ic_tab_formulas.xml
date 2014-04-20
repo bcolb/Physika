@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- When selected, use grey -->
+    <item android:drawable="@drawable/ic_tab_atom_selected2"
+        android:state_selected="true" />
+    <!-- When not selected, use white-->
+    <item android:drawable="@drawable/ic_tab_atom_unselected2" />
+</selector><!-- From: file:/home/bcolb/AndroidStudio/app/src/main/res/drawable/ic_tab_formulas.xml -->

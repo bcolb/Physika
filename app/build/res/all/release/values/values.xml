@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/bcolb/AndroidStudio/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="about_btn">About</string>
+    <string name="app_name">Physicists Assistant</string>
+    <string name="astronomy_btn">Astronomical Data</string>
+    <string name="calculator_btn">Calculator</string>
+    <string name="circular_btn">Circular Motion</string>
+    <string name="constants_btn">Important Constants</string>
+    <string name="electric_charge_btn">Electric Charges and Force</string>
+    <string name="electric_potential_btn">Electric Potential</string>
+    <string name="electric_potential_field_btn">Electric Potential and Field</string>
+    <string name="energy_btn">Fundamentals of Energy</string>
+    <string name="energy_btn_2">Work and Energy</string>
+    <string name="fundamental_circuits_btn">Fundamental Circuits</string>
+    <string name="gauss_btn">Gauss\'s Law</string>
+    <string name="gravity_btn">Theory of Gravity</string>
+    <string name="ideal_gas_btn">Ideal Gas Law</string>
+    <string name="khan_btn">Khan Academy Videos</string>
+    <string name="kin_btn">Kinematics</string>
+    <string name="magnetism_btn">Magnetism</string>
+    <string name="momentum_btn">Impulse and Momentum</string>
+    <string name="newtons_btn">Newton\'s Laws</string>
+    <string name="oscillation_btn">Oscillatory Motion</string>
+    <string name="prefix_btn">Prefixes</string>
+    <string name="rotational_btn">Rotational Motion</string>
+    <string name="si_btn">SI Units</string>
+    <string name="special_relativity_btn">Special Relativity</string>
+    <string name="thermodynamics_btn">Thermodynamics</string>
+    <string name="unit_conversions_btn">Basic Unit Conversions</string>
+    <!-- From: file:/home/bcolb/AndroidStudio/app/src/main/res/values/physics_theme.xml -->
+    <eat-comment />
+
+    <style name="physics_theme" parent="@android:style/Theme">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+</resources>
